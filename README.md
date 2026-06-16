@@ -34,12 +34,7 @@ University of Cape Town
 - CSC1016S - Java
 - INF2007F - SQL
 - STA2020S - Applied Statistics with R
-- CON3042S - Property Econometrics with EViews
-
-
-Standford University (current)
-
-- Artificial Intelligence Professional Program
+- CON3042S - Property Econometrics
 
 <!--
 **quennell-tshabadira/quennell-tshabadira** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
